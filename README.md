@@ -1,2 +1,7 @@
-# AI-Powered-Autonomous-Navigation-System
-AI Autonomous Navigation System using A* Pathfinding and Obstacle Avoidance in a 2D Grid Environment, with real-time simulation and intelligent route optimization.
+# AI Autonomous Navigation System
+
+A 2D simulation using A* pathfinding.
+
+## Run
+pip install -r requirements.txt
+python main.py
